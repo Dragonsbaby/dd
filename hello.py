@@ -1,2 +1,3 @@
-#2/usr/bin/env
+#1/usr/bin/env python
+print('hello. world.')
 print('hello, boss')
